@@ -105,6 +105,12 @@ set -g @tmux_power_prefix_highlight_pos 'LR'
 set -g @tmux_power_show_web_reachable true
 ```
 
+**[tmux-temperature](https://github.com/xai/tmux-temperature)**
+
+```tmux
+set -g @tmux_power_show_temperature true
+```
+
 ### 🔗 Other plugins
 
 You might also find these useful:
@@ -112,6 +118,7 @@ You might also find these useful:
 - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url)
 - [tmux-net-speed](https://github.com/wfxr/tmux-net-speed)
 - [tmux-web-reachable](https://github.com/wfxr/tmux-web-reachable)
+- [tmux-temperature](https://github.com/xai/tmux-temperature)
 
 ### 📃 License
 
